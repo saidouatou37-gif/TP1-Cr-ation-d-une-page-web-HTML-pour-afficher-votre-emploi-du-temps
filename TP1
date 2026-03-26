@@ -1,0 +1,74 @@
+<!DOCTYPE html>5
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title> emploi de temp </title>
+</head>
+<body>
+    <center\><img src="SAID.png" alt="logo_fpo" width="200" height="50"></center>
+  <h3>Emploi De Temp S2 IALI </h3>
+  <table border="1">
+    <tr>
+      <th width="70px" height="50px" > Heurs / Jours </th>
+      <th> 08h:00 A 09h:30 </th>
+      <th> 09h:30 A 11h:00 </th>
+      <th> 11h:00 A 12h:30 </th>
+      <th> 15h:30 A 14h:00 </th>
+      <th> 14h:00 A 15h:30 </th>
+      <th> 15h:30 A 17h:00 </th>
+    </tr>
+    <tr>
+      <td> Lundi </td> 
+      <td> Programmation Python 2</td>
+      <td> Algorithme Et Programmation C 2 </td>
+      <td>  </td>
+      <td> Algorithme Et Programmation C 2 [Td/Tp] [Gr 1] </td>
+      <td> Programmation Python 2 [Td/Tp] [Gr 3]</td>
+      <td> Programmation Python 2 [Td/Tp] [Gr 2] </td>
+    </tr>
+    <tr>
+      <td> Mardi </td>
+      <td> Programmation Python 2 [Td/Tp] [Gr 1] </td>
+      <td> </td>
+      <td> D&S [ Intelligence Artificial ]</td>
+      <td> D&S [ intelligence artificial ]</td>
+      <td></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> Mercredi </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> Algorithme Et Programmation C 2 [Td/Tp] [Gr 2]</td>
+      <td> Algebre 2 [Td] </td>
+      <td> Analyse 2 [Td] </td>
+    </tr>
+    <tr>
+      <td> Jeudi </td>
+      <td> Traitement de Signal [Cour]</td>
+      <td> Traitement de Signal [Td] </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> Mercredi </td>
+      <td> Algebre 2 [Cour] </td>
+      <td> Analyse 2 [Cour] </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td> Samedi </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> Development Weeb 1 [Td/Tp] [Gr 2] </td>
+      <td> Development Weeb 1 [Cour] </td>
+      <td> Development Weeb 1 [Td/Tp] [Gr 1] </td>
